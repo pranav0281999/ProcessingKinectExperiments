@@ -4,3 +4,6 @@ Experimentation with [Processing](https://processing.org/) and Xbox Kinect V2 to
 
 Demo Video:\
 [![Flappy Human Youtube URL](http://i3.ytimg.com/vi/N3Y8pDil4XU/hqdefault.jpg)](https://youtu.be/N3Y8pDil4XU)
+
+### Controls:
+flap your arms - human jumps in game
