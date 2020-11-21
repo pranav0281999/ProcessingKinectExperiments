@@ -4,3 +4,8 @@ Experimentation with [Processing](https://processing.org/) and Xbox Kinect V2 to
 
 Demo Video:\
 [![Connected Point Cloud Youtube URL](http://i3.ytimg.com/vi/ifwmSfUXnB8/hqdefault.jpg)](https://youtu.be/ifwmSfUXnB8)
+
+### Controls:
+a - Increase resolution\
+d - Decrease resolution\
+r - Toggle recording
